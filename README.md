@@ -1,4 +1,4 @@
-# processo_seletivo_myra.ipynb
+# Pyspark case study
 ## This notebook aim to analyze data from a kaggle dataset. 
 In order to acomplish that I used pyspark, pandas, matplotlib and spark.sql.
 The following are some of applyed techniques and functions:
